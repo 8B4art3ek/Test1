@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platformyStreamingowe>
+    <Netflix>
+        <IloscSeriali najlepszy = "Dexter" najgorszy = "Squid Game">1081</IloscSeriali>
+        <IloscFilmow najlepszy = "Mission Imposible" najgorszy = "Death Note">2317</IloscFilmow>
+        <IloscUzytkownikow USA = "30000000" Kanada = "5200000" >300000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "500000" wielkopolska = "290000">9730000</PolscyUzytkownicy>
+    </Netflix>
+    
+    <Hbo>
+        <IloscSeriali najlepszy = "Game of Thrones" najgorszy = "Westworld">230</IloscSeriali>
+        <IloscFilmow najlepszy = "Joker" najgorszy = "Space Jam: A New Legacy">501</IloscFilmow>
+        <IloscUzytkownikow USA = "23000000" Kanada = "23000">50000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "300000" wielkopolska = "210000">730000</PolscyUzytkownicy>
+    </Hbo>
+    
+    <PrimeVideo>
+        <IloscSeriali najlepszy = "The Boys" najgorszy = "The Tick">981</IloscSeriali>
+        <IloscFilmow najlepszy = "The Tomorrow War" najgorszy = "Fantasy Island">2117</IloscFilmow>
+        <IloscUzytkownikow USA = "20000000" Kanada = "120000">30000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "250000" wielkopolska = "190000">200000</PolscyUzytkownicy>
+    </PrimeVideo>
+    
+    <Hulu>
+        <IloscSeriali najlepszy = "The Handmaid's Tale" najgorszy = "Run">645</IloscSeriali>
+        <IloscFilmow najlepszy = "Parasite" najgorszy = "The Hunt">1011</IloscFilmow>
+        <IloscUzytkownikow USA = "25500000" Kanada = "150000">100000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "110000" wielkopolska = "220000">2440000</PolscyUzytkownicy>
+    </Hulu>
+    
+    <Disney+>
+        <IloscSeriali najlepszy = "The Mandalorian" najgorszy = "The Falcon and the Winter Soldier">625</IloscSeriali>
+        <IloscFilmow najlepszy = "Avengers: Endgame" najgorszy = "The Lion King">1222</IloscFilmow>
+        <IloscUzytkownikow USA = "15000000" Kanada = "210000">50000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "400000" wielkopolska = "190000">440000</PolscyUzytkownicy>
+    </Disney+>
+    
+    <Player>
+        <IloscSeriali najlepszy = "Ultraviolet" najgorszy = "Oko za Oko">611</IloscSeriali>
+        <IloscFilmow najlepszy = "Planeta Singli 3" najgorszy = "365 dni">1133</IloscFilmow>
+        <IloscUzytkownikow USA = "10000000" Kanada = "300000">300000000</IloscUzytkownikow>
+        <PolscyUzytkownicy malopolska = "310000" wielkopolska = "190000">239000</PolscyUzytkownicy>
+    </Player>
+</platformyStreamingowe>
