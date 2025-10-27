@@ -1,0 +1,45 @@
+[
+    {
+        "nazwa_platformy":"Netflix",
+        "kraj_pochodzenia": "Stany_zjednoczone",
+        "liczba_uzytkownikow_w_mln":301.6,
+        "najpopularniejsze_pozycje":["Breaking_bad","Stranger_things"],
+        "najpopularniejszy_gatunek":"Thriller"
+    },
+    {
+        "nazwa_platformy":"Max",
+        "kraj_pochodzenia":"Stany_zjednoczone",
+        "liczba_uzytkownikow_w_mln":250,
+        "najpopularniejsze_pozycje":["The_last_of_us"],
+        "najpopularniejszy_gatunek":"Dramat"
+    },
+    {
+        "nazwa_platformy":"Amazon_prime_video",
+        "kraj_pochodzenia":"Stany_zjednoczone",
+        "liczba_uzytkownikow_w_mln":240,
+        "najpopularniejsze_pozycje":["the_boys","Invincible"],
+        "najpopularniejszy_gatunek":"Akcja"
+    },
+    {
+        "nazwa_platformy":"Disney+",
+        "kraj_pochodzenia":"Stany_zjednoczone",
+        "liczba_uzytkownikow-w_mln":223,
+        "najpopularniejsze_pozycje":["Avengers:endgame","Spider-man"],
+        "najpopularniejszy_gatunek":"Akcja"
+    },
+    {
+        "nazwa_platformy":"Player",
+        "kraj_pochodzenia":"Polska",
+        "liczba_uzytkownikow_w_mln":2.32,
+        "najpopularniejsze_pozycje":["Skazana","Chylka"],
+        "najpopularniejszy_gatunek":"Kryminalne"
+    },
+    {
+        "nazwa_platformy":"Polsat_box_go",
+        "kraj_pochodzenia":"Polska",
+        "liczba_uzytkownikow_w_mln":1.5,
+        "najpopularniejsze_pozycje":["Wotum_nieufnosci"],
+        "najpopularniejszy_gatunek":"Kryminalne"
+    }
+
+]
