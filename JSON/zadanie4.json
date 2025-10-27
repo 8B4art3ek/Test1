@@ -1,0 +1,15 @@
+{
+    "nazwa_platformy":"Netflix",
+    "cena_za_mies":30,
+    "srednia_dlugosc_odcinka":15.55,
+    "najpopularniejsze_seriale":["breaking_bad","dom_z_papieru","rick_i_morty"],
+    "srednia_ilosc_odc":10,
+    "dostepne_w_polsce":true,
+    "usluga_bezplatna":false,
+    "top3gatunki": {
+        "thriller":"breaking_bad",
+        "dla_dzieci":"maly_ksiaze",
+        "horror":"to"
+    }
+
+}
