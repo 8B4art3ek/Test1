@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platformyStreamingowe>
+    <Netflix>
+        <IloscSeriali>1081</IloscSeriali>
+        <IloscFilmow>2317</IloscFilmow>
+        <IloscUzytkownikow>300000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>9730000</PolscyUzytkownicy>
+    </Netflix>
+    <Hbo>
+        <IloscSeriali>230</IloscSeriali>
+        <IloscFilmow>501</IloscFilmow>
+        <IloscUzytkownikow>50000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>730000</PolscyUzytkownicy>
+    </Hbo>
+    <PrimeVideo>
+        <IloscSeriali>981</IloscSeriali>
+        <IloscFilmow>2117</IloscFilmow>
+        <IloscUzytkownikow>30000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>200000</PolscyUzytkownicy>
+    </PrimeVideo>
+    <Hulu>
+        <IloscSeriali>645</IloscSeriali>
+        <IloscFilmow>1011</IloscFilmow>
+        <IloscUzytkownikow>100000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>2440000</PolscyUzytkownicy>
+    </Hulu>
+    <Disney+>
+        <IloscSeriali>625</IloscSeriali>
+        <IloscFilmow>1222</IloscFilmow>
+        <IloscUzytkownikow>50000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>440000</PolscyUzytkownicy>
+    </Disney+>
+    <Player>
+        <IloscSeriali>611</IloscSeriali>
+        <IloscFilmow>1133</IloscFilmow>
+        <IloscUzytkownikow>300000000</IloscUzytkownikow>
+        <PolscyUzytkownicy>239000</PolscyUzytkownicy>
+    </Player>
+
+
+
+
+
+</platformyStreamingowe> 
